@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
         super.onResume();
     }
     // Metoden körs när appen startar om // Henry
+    // Körs när aktiviteten blir synlig / Iggy
     @Override
     protected void onStart() {
         super.onStart();
